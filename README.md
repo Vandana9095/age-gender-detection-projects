@@ -34,3 +34,10 @@ A real-time video detection system for malls or stores that identifies individua
 
 ```bash
 pip install -r requirements.txt
+```txt
+opencv-python
+tensorflow
+keras
+numpy
+pandas
+h5py
